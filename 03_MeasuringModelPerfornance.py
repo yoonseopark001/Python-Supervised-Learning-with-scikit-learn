@@ -111,3 +111,7 @@ knn.fit(X_train, y_train)
 
 # Print the accuracy
 print(knn.score(X_test, y_test))
+
+'''
+0.9833333333333333
+'''
