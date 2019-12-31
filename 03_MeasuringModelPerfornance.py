@@ -36,7 +36,7 @@ print(digits.data.shape)
 plt.imshow(digits.images[1010], cmap=plt.cm.gray_r, interpolation='nearest')
 plt.show()
 
-```
+'''
 dict_keys(['data', 'target', 'target_names', 'images', 'DESCR'])
 Optical Recognition of Handwritten Digits Data Set
 ===================================================
@@ -86,4 +86,4 @@ References
 
 (1797, 8, 8)
 (1797, 64)
-```
+'''
