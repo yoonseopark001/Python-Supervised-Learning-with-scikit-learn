@@ -13,7 +13,10 @@ print(confusion_matrix(y_test, y_pred))
 
 print(classification_report(y_test, y_pred))
 
+# accuracy = (tp+tn)/(tp+tn+fp+fn)
 # precision = tp / (tp+fp)   ; eg. not mant real emails predicted as spam
 # recall = tp / (tp+fn)      ; eg. predicted most spam emails correctly
 # f1-score = 2*(precision*recall)/(precision+recall)
 # support
+
+(# reference: http://it.plusblog.co.kr/221243790904)
