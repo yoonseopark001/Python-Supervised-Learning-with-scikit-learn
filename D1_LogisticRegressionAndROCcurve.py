@@ -26,5 +26,5 @@ plt.show()
 
 
 # Probability thresholds
-#  by default, logistic regression threshold = 0.5
+# by default, logistic regression threshold = 0.5
 
